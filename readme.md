@@ -22,7 +22,7 @@
 安装组件：
 
 ```
-composer require uauth/uauth-sdk 0.\*
+composer require uauth/uauth-sdk dev-master
 ```
 
 2、修改配置：
